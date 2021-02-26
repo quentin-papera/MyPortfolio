@@ -1,7 +1,7 @@
 import React from "react";
 
 //Components 
-import MyNavbar from "./components/my-navbar/mynavbar.component";
+import MyNavbar from "./components/my-navbar/my-navbar";
 
 import './App.css';
 
