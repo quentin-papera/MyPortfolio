@@ -18,7 +18,7 @@ const MyCarousel = () => {
 					<img className="d-block w-100 custom-img" src={slide2} alt="Second slide"/>
 				</Carousel.Item>
 				<Carousel.Item>
-					<img className="d-block w-100 custom-img" src={slide3} alt="Third slide"/>
+					<img className="d-block w-100 custom-img gradient" src={slide3} alt="Third slide"/>
 				</Carousel.Item>
 			</Carousel>
 			<ScrollDown/>
